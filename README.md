@@ -18,10 +18,6 @@ Blog Italiano: https://www.programmareinpython.it/blog/
 
 + Sintesi Vocale con Python e gTTS: https://youtu.be/cakPogQAlWI
 
-+ Il Modulo SubProcess Pt.1: https://youtu.be/_fIEFOsbGIQ 
-
-+ Il Modulo SubProcess Pt.2: https://youtu.be/oipsuT7HOkU
-
 + Introduzione al Modulo Socket: https://youtu.be/UPHNw9J6fio
 
 + Server-Client TCP con Socket Pt.1: https://youtu.be/8ZnuRSrIePk
@@ -51,4 +47,4 @@ Blog Italiano: https://www.programmareinpython.it/blog/
 + Serie di Tutorial YouTube - Python "Concetti Intermedi": https://bit.ly/2Cg53IH
 
 
-# Iscriviti al Canale YouTube: https://www.youtube.com/c/PyMike?sub_confirmation=1
+## Iscriviti al Canale YouTube: https://www.youtube.com/c/PyMike?sub_confirmation=1
