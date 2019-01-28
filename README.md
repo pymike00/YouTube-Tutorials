@@ -40,6 +40,8 @@ Blog Italiano: https://www.programmareinpython.it/blog/
 
 + Guida per Sviluppatori a Django REST Framework e Vue JS: https://bit.ly/2Qs0Tzt
 
++ JavaScript per Sviluppatori Python: https://bit.ly/2QykNgv
+
 + Serie di Tutorial YouTube - Introduzione alla programmazione con Python: https://bit.ly/2q4YqmJ
 
 + Come Creare un Blog con Python 3 e Django 3.3.7: https://bit.ly/2CvnQg5
