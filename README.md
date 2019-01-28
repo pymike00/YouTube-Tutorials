@@ -49,3 +49,6 @@ Blog Italiano: https://www.programmareinpython.it/blog/
 + Introduzione alla Programmazione a Oggetti con Python: https://bit.ly/2lzxN47
 
 + Serie di Tutorial YouTube - Python "Concetti Intermedi": https://bit.ly/2Cg53IH
+
+
+# Iscriviti al Canale YouTube: https://www.youtube.com/c/PyMike?sub_confirmation=1
