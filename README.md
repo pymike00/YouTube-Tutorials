@@ -1,16 +1,18 @@
-# YouTube Scripts
+## YouTube Scripts - Italian Channel
 
-### Il codice usato nei video del mio canale YouTube, dal blog di programmareinpython.it
+#### Il codice usato nei video del mio canale YouTube Italiano, dal blog di programmareinpython.it
 
 Canale YouTube Italiano: https://www.youtube.com/c/pymike
 
 Blog Italiano: https://www.programmareinpython.it/blog/
 
-## Link ai Video Tutorial
+<hr>
+
+### Link ai Video Tutorial Corrispondenti
 
 + Come Creare Interfacce Grafiche per Python con TkInter: https://youtu.be/2vWCzB9HBgk
 
-+ Come Creare un Chatbot con Python e Chatterbot(aggiornato): https://youtu.be/oskYHwhpNsw
++ Come Creare un Chatbot con Python e Chatterbot (codice aggiornato): https://youtu.be/oskYHwhpNsw
 
 + Come accedere all'API di Twitter con Python e Tweepy: https://youtu.be/O9l5wan2lhk
 
@@ -28,9 +30,10 @@ Blog Italiano: https://www.programmareinpython.it/blog/
 
 + Introduzione al Modulo ArgParse Pt.2: https://youtu.be/w7KWwY27MJI 
 
+<hr>
 
-## ATTENZIONE: Questa è SOLO UNA PICCOLA PARTE del materiale su Python che ho messo a disposizione!
-### Di seguito un elenco dei video corsi su Python, Django, Django REST Framework, Bootstrap:
+#### ATTENZIONE: Questa è solo una piccola parte del materiale disponibile!
+##### Di seguito un elenco dei video corsi in Italiano su Python, Django, Django REST Framework, Vue JS, JavaScript, Bootstrap:
 
 + Guida Pratica e Completa a Django 2, Python 3 e Bootstrap 4: https://bit.ly/2FsiHu3
 
@@ -40,11 +43,14 @@ Blog Italiano: https://www.programmareinpython.it/blog/
 
 + Serie di Tutorial YouTube - Introduzione alla programmazione con Python: https://bit.ly/2q4YqmJ
 
-+ Come Creare un Blog con Python 3 e Django 3.3.7: https://bit.ly/2CvnQg5
++ Come Creare un Blog con Django 1.11 e Bootstrap 3.3.7: https://bit.ly/2CvnQg5
 
-+ Introduzione alla Programmazione a Oggetti con Python: https://bit.ly/2lzxN47
++ Introduzione alla Programmazione a Oggetti con Python 3: https://bit.ly/2lzxN47
 
-+ Serie di Tutorial YouTube - Python "Concetti Intermedi": https://bit.ly/2Cg53IH
++ Serie di Tutorial YouTube - Python 3 "Concetti Intermedi": https://bit.ly/2Cg53IH
 
+<hr>
 
-## Iscriviti al Canale YouTube: https://www.youtube.com/c/PyMike?sub_confirmation=1
+#### Iscriviti al Canale YouTube Italiano: https://www.youtube.com/c/PyMike?sub_confirmation=1
+
+### E come al solito... Happy Coding! ;)
