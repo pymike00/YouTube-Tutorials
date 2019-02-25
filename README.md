@@ -12,6 +12,8 @@ Blog Italiano: https://www.programmareinpython.it/blog/
 
 + Come Creare Interfacce Grafiche per Python con TkInter: https://youtu.be/2vWCzB9HBgk
 
++ Come Creare un Editor Testuale Completo con Python e TkInter: https://bit.ly/2tGitXv
+
 + Come Creare un Chatbot con Python e Chatterbot (codice aggiornato): https://youtu.be/oskYHwhpNsw
 
 + Come accedere all'API di Twitter con Python e Tweepy: https://youtu.be/O9l5wan2lhk
