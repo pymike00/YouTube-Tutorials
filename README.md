@@ -10,6 +10,8 @@ Blog Italiano: https://www.programmareinpython.it/blog/
 
 ### Link ai Video Tutorial Corrispondenti
 
++ Speed Coding di una Reverse Shell Python: https://youtu.be/N8DizNACPs8
+
 + Come Creare Interfacce Grafiche per Python con TkInter: https://youtu.be/2vWCzB9HBgk
 
 + Come Creare un Editor Testuale Completo con Python e TkInter: https://bit.ly/2tGitXv
