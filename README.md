@@ -10,6 +10,8 @@ Blog Italiano: https://www.programmareinpython.it/blog/
 
 ### Link ai Video Tutorial Corrispondenti
 
++ Requests: HTTP Per Esseri Umani - Tutorial: https://youtu.be/LKNo_FGd3bc
+
 + Speed Coding di una Reverse Shell Python: https://youtu.be/N8DizNACPs8
 
 + Come Creare Interfacce Grafiche per Python con TkInter: https://youtu.be/2vWCzB9HBgk
