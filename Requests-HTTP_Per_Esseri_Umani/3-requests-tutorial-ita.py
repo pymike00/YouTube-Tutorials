@@ -31,7 +31,7 @@ def auth_request(endpoint, auth_token):
 
 
 if __name__ == "__main__":
-    credentials = {"username": "neo", "password": "thereisnospoon"}
+    credentials = {"username": "", "password": ""}
     auth_token = login(credentials)
     endpoint = "http://127.0.0.1:8000/api/questions/"
 
