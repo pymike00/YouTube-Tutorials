@@ -10,9 +10,11 @@ Blog Italiano: https://www.programmareinpython.it/blog/
 
 ### Link ai Video Tutorial Corrispondenti
 
-+ Riconoscimento Facciale - Parte Uno: https://youtu.be/d2QIw6cQg40
++ Riconoscimento Facciale In Tempo Reale (webcam): 
 
-+ Riconoscimento Facciale - Parte Due: https://youtu.be/BHbtU0wtUSo
++ Riconoscimento Facciale da Immagini - Parte Uno: https://youtu.be/d2QIw6cQg40
+
++ Riconoscimento Facciale da Immagini - Parte Due: https://youtu.be/BHbtU0wtUSo
 
 + Requests: HTTP Per Esseri Umani - Tutorial: https://youtu.be/LKNo_FGd3bc
 
