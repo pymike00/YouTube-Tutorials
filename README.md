@@ -10,7 +10,7 @@ Blog Italiano: https://www.programmareinpython.it/blog/
 
 ### Link ai Video Tutorial Corrispondenti
 
-+ Riconoscimento Facciale In Tempo Reale (webcam): 
++ Riconoscimento Facciale In Tempo Reale (WEBCAM): https://youtu.be/5moAA31iTmM
 
 + Riconoscimento Facciale da Immagini - Parte Uno: https://youtu.be/d2QIw6cQg40
 
