@@ -6,7 +6,7 @@ Screen:
 
     MDRectangleFlatButton:
         text: "Hello Kivy World!"
-        pos_hint: {"center_x": 0.2, "center_y": 0.3}
+        pos_hint: {"center_x": 0.5, "center_y": 0.5}
 """
 
 
