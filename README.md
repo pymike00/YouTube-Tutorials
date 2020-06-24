@@ -10,11 +10,13 @@ Blog Italiano: https://www.programmareinpython.it/blog/
 
 ### Link ai Video Tutorial Corrispondenti
 
-+ Riconoscimento Facciale In Tempo Reale (WEBCAM): https://youtu.be/5moAA31iTmM
++ Come Creare App per Smartphone (e Desktop!) con Python e Kivy: https://bit.ly/app-smartphone-python
 
 + Riconoscimento Facciale da Immagini - Parte Uno: https://youtu.be/d2QIw6cQg40
 
 + Riconoscimento Facciale da Immagini - Parte Due: https://youtu.be/BHbtU0wtUSo
+
++ Riconoscimento Facciale In Tempo Reale (WEBCAM): https://youtu.be/5moAA31iTmM
 
 + Requests: HTTP Per Esseri Umani - Tutorial: https://youtu.be/LKNo_FGd3bc
 
