@@ -10,6 +10,8 @@ Blog Italiano: https://www.programmareinpython.it/blog/
 
 ### Link ai Video Tutorial Corrispondenti
 
++ Come Creare un Port Scanner TCP Multi Thread: https://bit.ly/3nhxxFw
+
 + Come Creare App per Smartphone (e Desktop!) con Python e Kivy: https://bit.ly/app-smartphone-python
 
 + Riconoscimento Facciale da Immagini - Parte Uno: https://youtu.be/d2QIw6cQg40
