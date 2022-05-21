@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Hello PyScript!</title>
+
+    <link rel="stylesheet" href="https://pyscript.net/alpha/pyscript.css" />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor"
+      crossorigin="anonymous"
+    />
+    <script defer src="https://pyscript.net/alpha/pyscript.js"></script>
+  </head>
+  <body>
+    <div class="container">
+      <h1>Python Version</h1>
+      <p id="output">Version:</p>
+
+      <button
+        type="button"
+        id="myBtn"
+        class="btn btn-outline-info"
+        pys-onClick="show_python_version"
+      >
+        Show Python Version
+      </button>
+    </div>
+
+    <py-script>
+import sys 
+
+def show_python_version(*args, **kwargs):
+     output_paragraph = Element(element_id="output")
+    version = sys.version 
+    output_paragraph.write(f"Version: {version}")
+    </py-script>
+  </body>
+</html>
